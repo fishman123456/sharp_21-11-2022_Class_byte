@@ -10,15 +10,15 @@ internal class Byte_one_two
         this._byte1 = byte1;
         this._byte2 = byte2;
     }
-
-
     //HACK это хак - некая временная затычка которую надо исправить
     //UNDONE очевидно, не доделано
-
+    public static Byte_one_two operator -(byte one, byte two)
+    {
+        return  { _byte1 - byte2 };
+    }
     public override string ToString()
     {
         return $"\n Байт №1 : {_byte1}\t №2 : {_byte2}\n";
     }
-
 }
 
