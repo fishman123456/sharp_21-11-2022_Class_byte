@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\bin\Debug\net6.0\sharp_21-11-2022_Class_byte.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\bin\Debug\net6.0\sharp_21-11-2022_Class_byte.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\bin\Debug\net6.0\sharp_21-11-2022_Class_byte.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\bin\Debug\net6.0\sharp_21-11-2022_Class_byte.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\bin\Debug\net6.0\sharp_21-11-2022_Class_byte.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\refint\sharp_21-11-2022_Class_byte.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\sharp_21-11-2022_Class_byte.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_21-11-2022_Class_byte\obj\Debug\net6.0\ref\sharp_21-11-2022_Class_byte.dll
